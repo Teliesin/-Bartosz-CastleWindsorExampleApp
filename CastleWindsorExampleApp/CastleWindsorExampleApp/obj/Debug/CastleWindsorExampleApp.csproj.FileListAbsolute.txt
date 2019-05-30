@@ -1,0 +1,11 @@
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\CastleWindsorExampleApp.exe.config
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\CastleWindsorExampleApp.exe
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\CastleWindsorExampleApp.pdb
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\Castle.Core.dll
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\Castle.Windsor.dll
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\Castle.Core.xml
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\Castle.Windsor.xml
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\obj\Debug\CastleWindsorExampleApp.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\obj\Debug\CastleWindsorExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\obj\Debug\CastleWindsorExampleApp.exe
+C:\Users\Łukasz\source\repos\CastleWindsorExampleApp\CastleWindsorExampleApp\obj\Debug\CastleWindsorExampleApp.pdb

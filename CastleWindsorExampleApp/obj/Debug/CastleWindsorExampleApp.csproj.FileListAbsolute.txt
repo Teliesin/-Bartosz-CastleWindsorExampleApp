@@ -1,0 +1,11 @@
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\CastleWindsorExampleApp.exe.config
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\CastleWindsorExampleApp.exe
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\CastleWindsorExampleApp.pdb
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\Castle.Core.dll
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\Castle.Windsor.dll
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\Castle.Core.xml
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\bin\Debug\Castle.Windsor.xml
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\obj\Debug\CastleWindsorExampleApp.csproj.CoreCompileInputs.cache
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\obj\Debug\CastleWindsorExampleApp.csproj.CopyComplete
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\obj\Debug\CastleWindsorExampleApp.exe
+F:\_repository\CastleWindsorExampleApp\CastleWindsorExampleApp\obj\Debug\CastleWindsorExampleApp.pdb
